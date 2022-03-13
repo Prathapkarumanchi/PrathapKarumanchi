@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathapkarumanchi&label=Profile%20views&color=0e75b6&style=flat" alt="prathapkarumanchi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathapkarumanchi" alt="prathapkarumanchi" /></a> </p>
-
 - 📫 How to reach me **&#117;&#120;&#107;&#114;&#097;&#102;&#116;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;**
 
 <h3 align="left">Connect with me:</h3>
